@@ -11,7 +11,7 @@
    <a href="https://github.com/subhh33/Find-your-projects/blob/master/CONTRIBUTE.md">
     <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs welcome!" />
   </a>
-    <a href="https://twitter.com/intent/follow?screen_name=ProjectLearn_io">
+    <a href="https://x.com/ssubh33">
         <img src="https://img.shields.io/twitter/follow/ProjectLearn_io?style=social&logo=twitter"
             alt="follow on Twitter"></a>
 </p>
