@@ -1,20 +1,7 @@
 <h1 align="center">
-  <a href="https://projectlearn.io"><img src="" alt="ProjectLearn"></a>
+ Find-your-projects
 </h1>
 
-<p align="center">
-   <a href="https://github.com/subhh33/Find-your-projects/blob/master/LICENSE">
-    <img src="" alt="" />
-  </a>
-    <a href="https://github.com/subhh33/Find-your-projects/graphs/contributors" alt="Contributors">
-        <img src="" /></a>
-   <a href="https://github.com/subhh33/Find-your-projects/blob/master/CONTRIBUTE.md">
-    <img src="" />
-  </a>
-    <a href="https://x.com/ssubh33">
-        <img src=""
-            alt="follow on Twitter"></a>
-</p>
 
 Tutorials are great, but building projects is the best way to learn. Do project based learning and learn code the right way!
   
