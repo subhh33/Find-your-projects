@@ -1,18 +1,18 @@
 <h1 align="center">
-  <a href="https://projectlearn.io"><img src="https://i.ibb.co/YycTZq4/Screen-Shot-20200830180734-removebg-preview.png" alt="ProjectLearn"></a>
+  <a href="https://projectlearn.io"><img src="" alt="ProjectLearn"></a>
 </h1>
 
 <p align="center">
    <a href="https://github.com/subhh33/Find-your-projects/blob/master/LICENSE">
-    <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="ProjectLearn is released under the MIT license." />
+    <img src="" alt="" />
   </a>
     <a href="https://github.com/subhh33/Find-your-projects/graphs/contributors" alt="Contributors">
-        <img src="https://img.shields.io/github/contributors/Xtremilicious/ProjectLearn-Project-Based-Learning" /></a>
+        <img src="" /></a>
    <a href="https://github.com/subhh33/Find-your-projects/blob/master/CONTRIBUTE.md">
-    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs welcome!" />
+    <img src="" />
   </a>
     <a href="https://x.com/ssubh33">
-        <img src="https://img.shields.io/twitter/follow/ProjectLearn_io?style=social&logo=twitter"
+        <img src=""
             alt="follow on Twitter"></a>
 </p>
 
